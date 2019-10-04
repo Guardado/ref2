@@ -1,6 +1,6 @@
 {
   "name": "ref2",
-  "description": "The same ref module but without the warnings.",
+  "description": "The same ref module without warnings and packed together with ref-array & ref-struct.",
   "keywords": [
     "native",
     "buffer",
@@ -19,7 +19,7 @@
   ],
   "version": "1.0.0",
   "license": "MIT",
-  "author": "Nathan Rajlich <nathan@tootallnate.net> (http://tootallnate.net)",
+  "author": "Jorge Garza",
   "repository": {
     "type": "git",
     "url": "https://github.com/Guardado/ref2.git"
