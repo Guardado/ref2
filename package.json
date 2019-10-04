@@ -24,12 +24,13 @@
     "type": "git",
     "url": "https://github.com/Guardado/ref2.git"
   },
-  "main": "./lib/ref.js",
+  "main": "./lib/ref2.js",
   "scripts": {
     "docs": "node docs/compile",
     "test": "mocha -gc --reporter spec --use_strict"
   },
   "dependencies": {
+    "array-index": "1",
     "bindings": "1",
     "debug": "4",
     "nan": "2"
